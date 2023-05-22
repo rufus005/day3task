@@ -19,10 +19,10 @@
     // }
 
 
-  //  for(i in data)
-  //  {
-  //   console.log(data[i].name.common)
-  //  } 
+   for(i in data)
+   {
+    console.log(data[i].name.common)
+   } 
 
 //   for (e of data)
 //  {
@@ -40,6 +40,6 @@
 </body>
     </html>
 
-    <!-- output
+    // <!-- output
     
-    -->
+    // -->

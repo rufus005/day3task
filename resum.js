@@ -20,7 +20,7 @@ let resume = {
             "percentage3":"57"
         }
         ],
-        "programmingskills":["basic javascript"]
+        "programmingskills":["basic javascript","HTML","CSS"]
 
     }
 
